@@ -1,2 +1,3 @@
 # BLDC-3-PHASE-WITH-ATMEGA88PA
 I'm making an inverter for bldc motors, and I'm using the ATMEGA88PA as the MCU for my project. 
+I am facing some problems such as not getting more speed without giving up the quality of the sine, in the code I am pre-calculating the sine table with the sin() function to generate the table, and then interpolating the table to generate the W V U phases , the maximum frequency I achieved was 10hz, I am using interruption to generate the time base and thus have a fixed frequency and changing the time base changes the frequency period, having the option of varying this frequency
