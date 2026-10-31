@@ -2,7 +2,7 @@
 
 **Prototipo de estudio · 2024**
 
-Este proyecto corresponde a una etapa de mi aprendizaje sobre control de motores. El objetivo era explorar la generación de señales para tres fases con un microcontrolador AVR, trabajando con una tabla senoidal, temporizadores, interrupciones, salidas PWM y lectura del ADC.
+Hice este prototipo mientras aprendía sobre control de motores. Quería explorar cómo generar señales para tres fases con un microcontrolador AVR, utilizando una tabla senoidal, temporizadores, interrupciones, salidas PWM y lectura del ADC.
 
 ## Contenido
 
@@ -12,8 +12,8 @@ Este proyecto corresponde a una etapa de mi aprendizaje sobre control de motores
 
 ## Estado y alcance
 
-La descripción original registraba una frecuencia máxima alcanzada de 10 Hz y dificultades para aumentarla manteniendo la forma de onda. Es una limitación de aquella versión, que conservo como referencia del proceso de aprendizaje.
+En aquella versión llegué a una frecuencia de 10 Hz y encontré dificultades para aumentarla manteniendo la forma de onda.
 
-El código permite revisar el enfoque utilizado en ese momento; no se presenta como un controlador de motor terminado ni como firmware de los productos comerciales de mi portafolio.
+Conservo el código y el vídeo de ese momento para mostrar mi proceso de aprendizaje. Lo comparto como estudio experimental, con las limitaciones de esa versión.
 
-[Volver al perfil](https://github.com/LucarioFur) · [Licencia existente](LICENSE)
+[Mi perfil](https://github.com/LucarioFur) · [Licencia](LICENSE)
